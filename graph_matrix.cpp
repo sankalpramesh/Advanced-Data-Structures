@@ -1,4 +1,4 @@
-//Di-Graph Implementation using adjacency lists
+//Di-Graph Implementation using adjacency Matrix
 #include<bits/stdc++.h>
 using namespace std;
 void generateGraph(int **G,int V,int e)
